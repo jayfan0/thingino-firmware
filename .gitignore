@@ -15,3 +15,13 @@ wirebox/
 /.settings/
 /.prereqs.done
 /.vscode
+package/gpio-test/files/.gpio-test.ko.cmd
+package/gpio-test/files/.gpio-test.mod.o.cmd
+package/gpio-test/files/.gpio-test.o.cmd
+package/gpio-test/files/gpio-test.ko
+package/gpio-test/files/gpio-test.mod.c
+package/gpio-test/files/gpio-test.mod.o
+package/gpio-test/files/gpio-test.o
+package/gpio-test/files/Module.symvers
+package/gpio-test/files/modules.order
+package/gpio-test/files/.tmp_versions/gpio-test.mod
